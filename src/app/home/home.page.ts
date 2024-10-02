@@ -11,9 +11,9 @@ export class HomePage {
   selectedBasemap: string = 'streets'; // Default basemap
   tileLayer!: L.TileLayer; // Menyimpan layer peta
 
-  constructor() {}
+  constructor() { }
 
-  ngOnInit() {}
+  ngOnInit() { }
 
   ionViewDidEnter() {
     // Inisialisasi peta
@@ -24,10 +24,10 @@ export class HomePage {
 
     // Membuat ikon untuk marker
     const icon = L.icon({
-      iconUrl: 'https://leafletjs.com/examples/custom-icons/leaf-red.png', // Ganti dengan URL ikon yang diinginkan
-      iconSize: [38, 95], // Ukuran ikon
-      iconAnchor: [22, 94], // Titik anchor dari ikon
-      popupAnchor: [-3, -76] // Titik anchor dari popup
+      iconUrl: 'https://img.icons8.com/?size=100&id=19608&format=png&color=000000',
+      iconSize: [38, 50],    // Ukuran ikon (sesuaikan ini dengan ukuran asli ikon)
+      iconAnchor: [19, 47],  // Titik anchor (setengah dari lebar dan tinggi ikon)
+      popupAnchor: [0, -47], // Lokasi popup relatif terhadap ikon
     });
 
     // Menambahkan marker ke peta
@@ -47,24 +47,25 @@ export class HomePage {
     let tileUrl: string;
     switch (basemap) {
       case 'streets':
-        tileUrl = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
+        tileUrl = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png'; // OpenStreetMap jalanan
         break;
       case 'topo':
-        tileUrl = 'https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png';
+        tileUrl = 'https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png'; // OpenTopoMap
         break;
       case 'satellite':
-        tileUrl = 'https://{s}.satellite.tiles.mapbox.com/{z}/{x}/{y}.jpg';
+        tileUrl = 'https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'; // Peta satelit dari ArcGIS
         break;
       case 'topo-vector':
-        tileUrl = 'https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png'; // Contoh lain
+        tileUrl = 'https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png'; // OpenTopoMap sebagai vektor
         break;
-      case 'gray-vector':
-        tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'; // Contoh lain
+      case 'carto-positron':
+        tileUrl = 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png'; // Peta minimalis dari CartoDB (Positron)
         break;
       default:
-        tileUrl = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
+        tileUrl = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png'; // Default ke OpenStreetMap
         break;
     }
+
 
     // Tambahkan layer peta baru
     this.tileLayer = L.tileLayer(tileUrl, {
