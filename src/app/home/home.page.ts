@@ -1,39 +1,59 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import * as L from 'leaflet';
+import { HttpClient } from '@angular/common/http';  // Import HttpClient
 
 @Component({
   selector: 'app-home',
   templateUrl: 'home.page.html',
   styleUrls: ['home.page.scss'],
 })
-export class HomePage {
+export class HomePage implements OnInit {
   map!: L.Map;
   selectedBasemap: string = 'streets'; // Default basemap
   tileLayer!: L.TileLayer; // Menyimpan layer peta
+  locations: any[] = []; // Array untuk menyimpan data lokasi
 
-  constructor() { }
+  constructor(private http: HttpClient) { }
 
-  ngOnInit() { }
+  ngOnInit() {
+    // Muat data lokasi dari file JSON
+    this.http.get<any[]>('assets/locations.json').subscribe(data => {
+      this.locations = data;
+      this.loadMap();  // Setelah data dimuat, inisialisasi peta
+    });
+  }
 
   ionViewDidEnter() {
-    // Inisialisasi peta
-    this.map = L.map('mapId').setView([51.505, -0.09], 10);
+    // Peta akan dimuat setelah data lokasi tersedia
+    if (this.locations.length > 0) {
+      this.loadMap();
+    }
+  }
+
+  loadMap() {
+    // Inisialisasi peta dengan koordinat Yogyakarta
+    this.map = L.map('mapId').setView([-7.797068, 110.370529], 13);
 
     // Menambahkan layer peta awal
     this.addTileLayer(this.selectedBasemap);
 
-    // Membuat ikon untuk marker
-    const icon = L.icon({
-      iconUrl: 'https://img.icons8.com/?size=100&id=19608&format=png&color=000000',
-      iconSize: [38, 50],    // Ukuran ikon (sesuaikan ini dengan ukuran asli ikon)
-      iconAnchor: [19, 47],  // Titik anchor (setengah dari lebar dan tinggi ikon)
-      popupAnchor: [0, -47], // Lokasi popup relatif terhadap ikon
+    // Menambahkan marker dari data JSON
+    this.locations.forEach(location => {
+      L.circleMarker([location.Latitude, location.Longitude], {
+        radius: 20,  // Ukuran radius lingkaran
+        color: 'red',  // Warna tepi lingkaran
+        fillColor: 'yellow',  // Warna isi lingkaran
+        fillOpacity: 0.5,  // Transparansi isi lingkaran
+      })
+        .addTo(this.map)
+        .bindPopup(`
+          <b>Nama Café:</b> ${location.Nama}<br>
+          <b>Jenis:</b> ${location.Jenis}<br>
+          <b>Rating:</b> ${location.Rating}<br>
+          <b>Harga:</b> Rp ${location.Harga.toLocaleString()}<br>
+        `)
+        .openPopup();
     });
-
-    // Menambahkan marker ke peta
-    L.marker([51.5, -0.09], { icon }).addTo(this.map)
-      .bindPopup('A pretty CSS popup.<br> Easily customizable.')
-      .openPopup();
   }
 
   // Menambahkan layer peta
@@ -65,7 +85,6 @@ export class HomePage {
         tileUrl = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png'; // Default ke OpenStreetMap
         break;
     }
-
 
     // Tambahkan layer peta baru
     this.tileLayer = L.tileLayer(tileUrl, {

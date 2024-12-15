@@ -1,0 +1,1972 @@
+[
+    {
+      "Nama": "Silol Kopi & Eatery",
+      "Jenis": "Cafe",
+      "Rating": "4,4",
+      "Harga": "(15K)",
+      "Jalan": "Jl. Suroto",
+      "Full Address": "Silol Kopi & Eatery Jl. Suroto",
+      "Latitude": -7.7845616,
+      "Longitude": 110.3744526
+    },
+    {
+      "Nama": "Jeeva Yogyakarta",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": "(2,2K)",
+      "Jalan": "Jl. Suhartono No.2",
+      "Full Address": "Jeeva Yogyakarta Jl. Suhartono No.2",
+      "Latitude": -7.7848923,
+      "Longitude": 110.3754035
+    },
+    {
+      "Nama": "Tanamera Coffee Yogyakarta",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": "(1,2K)",
+      "Jalan": "Jl. Jend. Sudirman No.3",
+      "Full Address": "Tanamera Coffee Yogyakarta Jl. Jend. Sudirman No.3",
+      "Latitude": -7.7825821,
+      "Longitude": 110.3675124
+    },
+    {
+      "Nama": "Sunset Coffee & Eatery",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": "(3,5K)",
+      "Jalan": "Yogyakarta, Special Region of Yogyakarta",
+      "Full Address": "Sunset Coffee & Eatery Yogyakarta, Special Region of Yogyakarta",
+      "Latitude": -7.7739888,
+      "Longitude": 110.4011155
+    },
+    {
+      "Nama": "Simetri Coffee Roaster",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": "(2,2K)",
+      "Jalan": "Jl. Sabirin No.20",
+      "Full Address": "Simetri Coffee Roaster Jl. Sabirin No.20",
+      "Latitude": -7.784344,
+      "Longitude": 110.3740934
+    },
+    {
+      "Nama": "Ling-Lung Kopi & Eatery",
+      "Jenis": "Art cafe",
+      "Rating": "4,4",
+      "Harga": "(5,6K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Ling-Lung Kopi & Eatery Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7776275,
+      "Longitude": 110.404991
+    },
+    {
+      "Nama": "Karta Coffee & Eatery",
+      "Jenis": "Cafe",
+      "Rating": "4,9",
+      "Harga": -407,
+      "Jalan": "Karta Coffee & Eatery, Jl. Malioboro. 52-58, Suryatmajan, Danurejan Plaza Malioboro, Lt. 1 Unit 13-16",
+      "Full Address": "Karta Coffee & Eatery Karta Coffee & Eatery, Jl. Malioboro. 52-58, Suryatmajan, Danurejan Plaza Malioboro, Lt. 1 Unit 13-16",
+      "Latitude": -7.7931709,
+      "Longitude": 110.3665629
+    },
+    {
+      "Nama": "Peachy Coffee & Work Space",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": "(1,3K)",
+      "Jalan": "Jl. Taman Siswa No.108 C",
+      "Full Address": "Peachy Coffee & Work Space Jl. Taman Siswa No.108 C",
+      "Latitude": -7.8128071,
+      "Longitude": 110.3764875
+    },
+    {
+      "Nama": "28 Coffee Taman Siswa",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -366,
+      "Jalan": "Jl. Taman Siswa No.134",
+      "Full Address": "28 Coffee Taman Siswa Jl. Taman Siswa No.134",
+      "Latitude": -7.8121622,
+      "Longitude": 110.3766031
+    },
+    {
+      "Nama": "de Ngokow Coffee Roastery & Tea Club Jogja",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -428,
+      "Jalan": "Pendopo Ndalem Pujokusuman, Jl. Brigjen Katamso",
+      "Full Address": "de Ngokow Coffee Roastery & Tea Club Jogja Pendopo Ndalem Pujokusuman, Jl. Brigjen Katamso",
+      "Latitude": -7.8129401,
+      "Longitude": 110.3697829
+    },
+    {
+      "Nama": "Metropole Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,4",
+      "Harga": -321,
+      "Jalan": "Jl. Nitikan Baru No.18",
+      "Full Address": "Metropole Coffee Jl. Nitikan Baru No.18",
+      "Latitude": -7.8178609,
+      "Longitude": 110.3827563
+    },
+    {
+      "Nama": "Arka Coffee and Space",
+      "Jenis": "Coffee shop",
+      "Rating": "4,8",
+      "Harga": -492,
+      "Jalan": "Jl. Taman Sari No.1/310",
+      "Full Address": "Arka Coffee and Space Jl. Taman Sari No.1/310",
+      "Latitude": -7.8091328,
+      "Longitude": 110.3608411
+    },
+    {
+      "Nama": "Water Castle Cafe",
+      "Jenis": "Cafe",
+      "Rating": "4,7",
+      "Harga": -381,
+      "Jalan": "Jl. Polowijan",
+      "Full Address": "Water Castle Cafe Jl. Polowijan",
+      "Latitude": -7.8087025,
+      "Longitude": 110.3599949
+    },
+    {
+      "Nama": "Walter Coffee and Eatery",
+      "Jenis": "Cafe",
+      "Rating": "4,9",
+      "Harga": -756,
+      "Jalan": "Jl. Kemetiran Kidul No.9, RW.001",
+      "Full Address": "Walter Coffee and Eatery Jl. Kemetiran Kidul No.9, RW.001",
+      "Latitude": -7.7935288,
+      "Longitude": 110.3605887
+    },
+    {
+      "Nama": "Cerita Makna Coffee and Space",
+      "Jenis": "Cafe",
+      "Rating": "4,4",
+      "Harga": -338,
+      "Jalan": "Jl. Ki Ageng Pemanahan",
+      "Full Address": "Cerita Makna Coffee and Space Jl. Ki Ageng Pemanahan",
+      "Latitude": -7.8270502,
+      "Longitude": 110.3795596
+    },
+    {
+      "Nama": "The Bean Garden Coffee and Eatery",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": -953,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "The Bean Garden Coffee and Eatery Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7638853,
+      "Longitude": 110.4204384
+    },
+    {
+      "Nama": "Sapulu Coffee",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -555,
+      "Jalan": "Jl. Panembahan Mangkurat No.10",
+      "Full Address": "Sapulu Coffee Jl. Panembahan Mangkurat No.10",
+      "Latitude": -7.80701,
+      "Longitude": 110.3667512
+    },
+    {
+      "Nama": "Pixel Coffee & Collaborative Space Yogyakarta",
+      "Jenis": "Restaurant",
+      "Rating": "4,5",
+      "Harga": -146,
+      "Jalan": "Tirtodipuran St No.52",
+      "Full Address": "Pixel Coffee & Collaborative Space Yogyakarta Tirtodipuran St No.52",
+      "Latitude": -7.81883,
+      "Longitude": 110.3672659
+    },
+    {
+      "Nama": "Nest Coffee & Donuts",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": "(1,6K)",
+      "Jalan": "Jl. Ringroad Selatan",
+      "Full Address": "Nest Coffee & Donuts Jl. Ringroad Selatan",
+      "Latitude": -7.8345925,
+      "Longitude": 110.3890267
+    },
+    {
+      "Nama": "de Cored Coffee and Eatery",
+      "Jenis": "Cafe",
+      "Rating": "4,9",
+      "Harga": -55,
+      "Jalan": "Jl. Pangeran Diponegoro No.17",
+      "Full Address": "de Cored Coffee and Eatery Jl. Pangeran Diponegoro No.17",
+      "Latitude": -7.7831084,
+      "Longitude": 110.3660198
+    },
+    {
+      "Nama": "Saka Coffee Yogyakarta",
+      "Jenis": "Coffee shop",
+      "Rating": "4,8",
+      "Harga": -681,
+      "Jalan": "Jl. Bener No.4",
+      "Full Address": "Saka Coffee Yogyakarta Jl. Bener No.4",
+      "Latitude": -7.7809088,
+      "Longitude": 110.3520529
+    },
+    {
+      "Nama": "Inspira Roasters",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -192,
+      "Jalan": "Gaia Cosmo Hotel, Jl. Ipda Tut Harsono No.16",
+      "Full Address": "Inspira Roasters Gaia Cosmo Hotel, Jl. Ipda Tut Harsono No.16",
+      "Latitude": -7.7990087,
+      "Longitude": 110.3927406
+    },
+    {
+      "Nama": "Epic Coffee & Epilog Furniture",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": "(4,1K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Epic Coffee & Epilog Furniture Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7340243,
+      "Longitude": 110.3776673
+    },
+    {
+      "Nama": "RT Cafe",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -961,
+      "Jalan": "Jl. Patehan Lor No.8",
+      "Full Address": "RT Cafe Jl. Patehan Lor No.8",
+      "Latitude": -7.8118129,
+      "Longitude": 110.3619965
+    },
+    {
+      "Nama": "Dear Sweet Cafe & Cakery",
+      "Jenis": "Cafe",
+      "Rating": "4,7",
+      "Harga": -720,
+      "Jalan": "Jl. Doktor Sutomo No.54a",
+      "Full Address": "Dear Sweet Cafe & Cakery Jl. Doktor Sutomo No.54a",
+      "Latitude": -7.7930132,
+      "Longitude": 110.3780655
+    },
+    {
+      "Nama": "Ekologi Desk & Coffee",
+      "Jenis": "Coworking space",
+      "Rating": "4,5",
+      "Harga": "(2,8K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Ekologi Desk & Coffee Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7640217,
+      "Longitude": 110.3889838
+    },
+    {
+      "Nama": "Moon Cafe Yogyakarta",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": -207,
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "Moon Cafe Yogyakarta Bantul Regency, Special Region of Yogyakarta",
+      "Latitude": -7.8300824,
+      "Longitude": 110.3239523
+    },
+    {
+      "Nama": "Estuary",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": "(3,3K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Estuary Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7634358,
+      "Longitude": 110.3698101
+    },
+    {
+      "Nama": "Negra Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,9",
+      "Harga": -300,
+      "Jalan": "Jl. Polowijan No.42",
+      "Full Address": "Negra Coffee Jl. Polowijan No.42",
+      "Latitude": -7.8078129,
+      "Longitude": 110.3593925
+    },
+    {
+      "Nama": "Nol Kilometer Coffee & Tea Yogyakarta",
+      "Jenis": "Cafe",
+      "Rating": "4,7",
+      "Harga": -774,
+      "Jalan": "Jl. Pangurakan No.04",
+      "Full Address": "Nol Kilometer Coffee & Tea Yogyakarta Jl. Pangurakan No.04",
+      "Latitude": -7.8018453,
+      "Longitude": 110.3645658
+    },
+    {
+      "Nama": "Yamas Sky Cafe",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -198,
+      "Jalan": "Jl. Letjen Suprapto No.1",
+      "Full Address": "Yamas Sky Cafe Jl. Letjen Suprapto No.1",
+      "Latitude": -7.8006462,
+      "Longitude": 110.3559225
+    },
+    {
+      "Nama": "Hagia Coffee Yogyakarta",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -208,
+      "Jalan": "Jl. Pringgokusuman No.10",
+      "Full Address": "Hagia Coffee Yogyakarta Jl. Pringgokusuman No.10",
+      "Latitude": -7.7913675,
+      "Longitude": 110.3593901
+    },
+    {
+      "Nama": "UHT (Ultra High Temptation) Cafe",
+      "Jenis": "Cafe",
+      "Rating": "4,3",
+      "Harga": "(1,1K)",
+      "Jalan": "Jl. Sorosutan No.2",
+      "Full Address": "UHT (Ultra High Temptation) Cafe Jl. Sorosutan No.2",
+      "Latitude": -7.8163353,
+      "Longitude": 110.3782587
+    },
+    {
+      "Nama": "Dasawarsa Coffee Roasters",
+      "Jenis": "Bistro",
+      "Rating": "4,7",
+      "Harga": -240,
+      "Jalan": "Jl. Poncowinatan No.77",
+      "Full Address": "Dasawarsa Coffee Roasters Jl. Poncowinatan No.77",
+      "Latitude": -7.7821986,
+      "Longitude": 110.3612914
+    },
+    {
+      "Nama": "Koat Kopi UAD",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": -818,
+      "Jalan": "Jl. Ki Ageng Pemanahan",
+      "Full Address": "Koat Kopi UAD Jl. Ki Ageng Pemanahan",
+      "Latitude": -7.8282313,
+      "Longitude": 110.3794315
+    },
+    {
+      "Nama": "Tujuan",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": "(1,3K)",
+      "Jalan": "Tirtodipuran St No.17C",
+      "Full Address": "Tujuan Tirtodipuran St No.17C",
+      "Latitude": -7.8183132,
+      "Longitude": 110.3647868
+    },
+    {
+      "Nama": "Roaster And Bear Restaurant",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": "(6,2K)",
+      "Jalan": "Jl. P. Mangkubumi No.52",
+      "Full Address": "Roaster And Bear Restaurant Jl. P. Mangkubumi No.52",
+      "Latitude": -7.7845646,
+      "Longitude": 110.3671832
+    },
+    {
+      "Nama": "B COFFEE YOGYA",
+      "Jenis": "Coffee shop",
+      "Rating": "4,8",
+      "Harga": -337,
+      "Jalan": "Jl. Jogokaryan No.61-63",
+      "Full Address": "B COFFEE YOGYA Jl. Jogokaryan No.61-63",
+      "Latitude": -7.8237862,
+      "Longitude": 110.3666306
+    },
+    {
+      "Nama": "Space Coffee Roastery",
+      "Jenis": "Coffee roasters",
+      "Rating": "4,7",
+      "Harga": "(1,2K)",
+      "Jalan": "Gg. Loncang No.88",
+      "Full Address": "Space Coffee Roastery Gg. Loncang No.88",
+      "Latitude": -7.7660474,
+      "Longitude": 110.3606993
+    },
+    {
+      "Nama": "Punika Deli",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -405,
+      "Jalan": "Yogyakarta, Special Region of Yogyakarta",
+      "Full Address": "Punika Deli Yogyakarta, Special Region of Yogyakarta",
+      "Latitude": -7.7824588,
+      "Longitude": 110.402625
+    },
+    {
+      "Nama": "Luang Waktu Kopi",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -332,
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "Luang Waktu Kopi Bantul Regency, Special Region of Yogyakarta",
+      "Latitude": -7.8319923,
+      "Longitude": 110.3860074
+    },
+    {
+      "Nama": "Filosofi Kopi Jogja",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": "(11K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Filosofi Kopi Jogja Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7275923,
+      "Longitude": 110.3770166
+    },
+    {
+      "Nama": "Ever Coffee Yogyakarta",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": -344,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Ever Coffee Yogyakarta Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7704898,
+      "Longitude": 110.3597555
+    },
+    {
+      "Nama": "TUGU LOR",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": "(2,2K)",
+      "Jalan": "Jl. A.M. Sangaji No.72",
+      "Full Address": "TUGU LOR Jl. A.M. Sangaji No.72",
+      "Latitude": -7.7743738,
+      "Longitude": 110.3682459
+    },
+    {
+      "Nama": "Sugara Milk",
+      "Jenis": "Cafe",
+      "Rating": "4,4",
+      "Harga": "(5,3K)",
+      "Jalan": "Jl. Lowanu No.94",
+      "Full Address": "Sugara Milk Jl. Lowanu No.94",
+      "Latitude": -7.824453,
+      "Longitude": 110.3784107
+    },
+    {
+      "Nama": "Coklat Cafe",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": "(2K)",
+      "Jalan": "Jl. Cik Di Tiro No.19",
+      "Full Address": "Coklat Cafe Jl. Cik Di Tiro No.19",
+      "Latitude": -7.778882,
+      "Longitude": 110.375355
+    },
+    {
+      "Nama": "C28 Social Space - Malioboro",
+      "Jenis": "Coffee shop",
+      "Rating": "5,0",
+      "Harga": "(2,2K)",
+      "Jalan": "Jl. Kemetiran Lor No.6",
+      "Full Address": "C28 Social Space - Malioboro Jl. Kemetiran Lor No.6",
+      "Latitude": -7.7913378,
+      "Longitude": 110.3613557
+    },
+    {
+      "Nama": "Literica Resto & Cafe",
+      "Jenis": "Restaurant",
+      "Rating": "4,9",
+      "Harga": -427,
+      "Jalan": "Tirtodipuran St No.65",
+      "Full Address": "Literica Resto & Cafe Tirtodipuran St No.65",
+      "Latitude": -7.8186405,
+      "Longitude": 110.366959
+    },
+    {
+      "Nama": "Lantai Bumi",
+      "Jenis": "Coffee shop",
+      "Rating": "4,4",
+      "Harga": "(3,3K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Lantai Bumi Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7596891,
+      "Longitude": 110.3763809
+    },
+    {
+      "Nama": "Rembug Kopi",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": "(1,4K)",
+      "Jalan": "Jl. Veteran No.148",
+      "Full Address": "Rembug Kopi Jl. Veteran No.148",
+      "Latitude": -7.813987,
+      "Longitude": 110.391721
+    },
+    {
+      "Nama": "Mampeer Coffee & Me Jawa",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": -527,
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "Mampeer Coffee & Me Jawa Bantul Regency, Special Region of Yogyakarta",
+      "Latitude": -7.8431362,
+      "Longitude": 110.3837564
+    },
+    {
+      "Nama": "Kedai Kopi Om Man",
+      "Jenis": "Coffee shop",
+      "Rating": "4,4",
+      "Harga": -342,
+      "Jalan": "Jl. Pangeran Diponegoro No.1",
+      "Full Address": "Kedai Kopi Om Man Jl. Pangeran Diponegoro No.1",
+      "Latitude": -7.7830523,
+      "Longitude": 110.366862
+    },
+    {
+      "Nama": "KUMPENI Indonesian Coffee & Ice Cream",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -770,
+      "Jalan": "Jl. Nyai Ahmad Dahlan No.32",
+      "Full Address": "KUMPENI Indonesian Coffee & Ice Cream Jl. Nyai Ahmad Dahlan No.32",
+      "Latitude": -7.8025735,
+      "Longitude": 110.3607425
+    },
+    {
+      "Nama": "SMEDI Coliving & Coffee by SUHU",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -268,
+      "Jalan": "Jl. Pareanom No.15",
+      "Full Address": "SMEDI Coliving & Coffee by SUHU Jl. Pareanom No.15",
+      "Latitude": -7.8112123,
+      "Longitude": 110.3514459
+    },
+    {
+      "Nama": "Analog Coffee Jogja",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": -529,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Analog Coffee Jogja Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7764064,
+      "Longitude": 110.3951015
+    },
+    {
+      "Nama": "Henggoy Coffee",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": -168,
+      "Jalan": "Jl. Menukan No.2",
+      "Full Address": "Henggoy Coffee Jl. Menukan No.2",
+      "Latitude": -7.8242686,
+      "Longitude": 110.3685545
+    },
+    {
+      "Nama": "Fill In Blue",
+      "Jenis": "Coffee shop",
+      "Rating": "4,8",
+      "Harga": -174,
+      "Jalan": "Jl. Brigjen Katamso",
+      "Full Address": "Fill In Blue Jl. Brigjen Katamso",
+      "Latitude": -7.8072761,
+      "Longitude": 110.3696995
+    },
+    {
+      "Nama": "JRNY Coffee & Records - Demangan",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -664,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "JRNY Coffee & Records - Demangan Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7785994,
+      "Longitude": 110.3897488
+    },
+    {
+      "Nama": "MENOEWA KOPI JOGJA",
+      "Jenis": "Cafe",
+      "Rating": "4,3",
+      "Harga": "(2,2K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "MENOEWA KOPI JOGJA Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7730284,
+      "Longitude": 110.4093002
+    },
+    {
+      "Nama": "Kedai Kolega Gedongkuning",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -173,
+      "Jalan": "Jl. Gedongkuning No.128",
+      "Full Address": "Kedai Kolega Gedongkuning Jl. Gedongkuning No.128",
+      "Latitude": -7.8148781,
+      "Longitude": 110.4017709
+    },
+    {
+      "Nama": "Carney Co",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": "(2,2K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Carney Co Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7754467,
+      "Longitude": 110.4099001
+    },
+    {
+      "Nama": "Fore Coffee Godean",
+      "Jenis": "Cafe",
+      "Rating": "4,7",
+      "Harga": -836,
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "Fore Coffee Godean Bantul Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7813584,
+      "Longitude": 110.3502236
+    },
+    {
+      "Nama": "Ministry of Coffee",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -291,
+      "Jalan": "Jl. Prawirotaman No.1/15a",
+      "Full Address": "Ministry of Coffee Jl. Prawirotaman No.1/15a",
+      "Latitude": -7.8190554,
+      "Longitude": 110.3702076
+    },
+    {
+      "Nama": "Bura Bura Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -274,
+      "Jalan": "Ruko Cokro Square, Jl. HOS Cokroaminoto No.Kav 0 Blok Kav N",
+      "Full Address": "Bura Bura Coffee Ruko Cokro Square, Jl. HOS Cokroaminoto No.Kav 0 Blok Kav N",
+      "Latitude": -7.7897615,
+      "Longitude": 110.3541072
+    },
+    {
+      "Nama": "Mamahké Jogja",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": "(2,3K)",
+      "Jalan": "KT 1 329 Kraton, Jl. Taman",
+      "Full Address": "Mamahké Jogja KT 1 329 Kraton, Jl. Taman",
+      "Latitude": -7.8110569,
+      "Longitude": 110.3604807
+    },
+    {
+      "Nama": "Opera Pastry Cafe",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -315,
+      "Jalan": "Jl. Prawirotaman No.1 No. 2",
+      "Full Address": "Opera Pastry Cafe Jl. Prawirotaman No.1 No. 2",
+      "Latitude": -7.8189474,
+      "Longitude": 110.3684489
+    },
+    {
+      "Nama": "Ruang JAKA Coffee & Free Wifi",
+      "Jenis": "Coffee shop",
+      "Rating": "4,8",
+      "Harga": -321,
+      "Jalan": "Jl. Polowijan No.17B",
+      "Full Address": "Ruang JAKA Coffee & Free Wifi Jl. Polowijan No.17B",
+      "Latitude": -7.8078105,
+      "Longitude": 110.3588526
+    },
+    {
+      "Nama": "HSCO. Had Some Coffee.",
+      "Jenis": "Coffee shop",
+      "Rating": "4,8",
+      "Harga": -196,
+      "Jalan": "Jl. Pekapalan",
+      "Full Address": "HSCO. Had Some Coffee. Jl. Pekapalan",
+      "Latitude": -7.802682,
+      "Longitude": 110.3636682
+    },
+    {
+      "Nama": "Leeren by Curio Espresso",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": -163,
+      "Jalan": "Jl. Jend. Sudirman No.40",
+      "Full Address": "Leeren by Curio Espresso Jl. Jend. Sudirman No.40",
+      "Latitude": -7.7832584,
+      "Longitude": 110.3724137
+    },
+    {
+      "Nama": "Couvee - Ahmad Dahlan",
+      "Jenis": "Cafe",
+      "Rating": "4,7",
+      "Harga": "(2,4K)",
+      "Jalan": "Jl. KH. Ahmad Dahlan No.90",
+      "Full Address": "Couvee - Ahmad Dahlan Jl. KH. Ahmad Dahlan No.90",
+      "Latitude": -7.8009865,
+      "Longitude": 110.3586474
+    },
+    {
+      "Nama": "Masa Kopi",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -314,
+      "Jalan": "Jl. Gambiran No.21A",
+      "Full Address": "Masa Kopi Jl. Gambiran No.21A",
+      "Latitude": -7.8157016,
+      "Longitude": 110.3914635
+    },
+    {
+      "Nama": "JNM Bloc",
+      "Jenis": "Shopping mall",
+      "Rating": "4,8",
+      "Harga": "(1,3K)",
+      "Jalan": "Jl. Prof. DR. Ki Amri Yahya No.1",
+      "Full Address": "JNM Bloc Jl. Prof. DR. Ki Amri Yahya No.1",
+      "Latitude": -7.8001175,
+      "Longitude": 110.3534164
+    },
+    {
+      "Nama": "Kenal Coffee Yogyakarta",
+      "Jenis": "Cafe",
+      "Rating": "4,7",
+      "Harga": -113,
+      "Jalan": "Jl. Mangkuyudan No.19",
+      "Full Address": "Kenal Coffee Yogyakarta Jl. Mangkuyudan No.19",
+      "Latitude": -7.8208902,
+      "Longitude": 110.3636599
+    },
+    {
+      "Nama": "𝐑𝐞𝐬𝐭𝐥𝐞𝐬𝐬 𝐂𝐨𝐟𝐟𝐞𝐞 & 𝐄𝐚𝐭𝐞𝐫𝐲",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -264,
+      "Jalan": "Jl. Gayam No.3",
+      "Full Address": "𝐑𝐞𝐬𝐭𝐥𝐞𝐬𝐬 𝐂𝐨𝐟𝐟𝐞𝐞 & 𝐄𝐚𝐭𝐞𝐫𝐲 Jl. Gayam No.3",
+      "Latitude": -7.7972309,
+      "Longitude": 110.3780776
+    },
+    {
+      "Nama": "Satu Lokasi Coffee & Store",
+      "Jenis": "Cafe",
+      "Rating": "4,7",
+      "Harga": -230,
+      "Jalan": "Jl. Sareh No.5",
+      "Full Address": "Satu Lokasi Coffee & Store Jl. Sareh No.5",
+      "Latitude": -7.7851511,
+      "Longitude": 110.3760331
+    },
+    {
+      "Nama": "Insieme Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,8",
+      "Harga": -58,
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "Insieme Coffee Bantul Regency, Special Region of Yogyakarta",
+      "Latitude": -7.8304162,
+      "Longitude": 110.3839242
+    },
+    {
+      "Nama": "Svarga Flora Coffee & Plants #hutansatu",
+      "Jenis": "Coffee shop",
+      "Rating": "4,4",
+      "Harga": "(1,1K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Svarga Flora Coffee & Plants #hutansatu Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7611821,
+      "Longitude": 110.3940722
+    },
+    {
+      "Nama": "Piezo Kopi Yogyakarta",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -355,
+      "Jalan": "Jl. Sukonandi No.9",
+      "Full Address": "Piezo Kopi Yogyakarta Jl. Sukonandi No.9",
+      "Latitude": -7.7989352,
+      "Longitude": 110.3815065
+    },
+    {
+      "Nama": "Camp Coffee & Nature",
+      "Jenis": "Grill",
+      "Rating": "4,4",
+      "Harga": -549,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Camp Coffee & Nature Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7748214,
+      "Longitude": 110.3476145
+    },
+    {
+      "Nama": "Kopi Luwak Mataram",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": "(1,8K)",
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "Kopi Luwak Mataram Bantul Regency, Special Region of Yogyakarta",
+      "Latitude": -7.819812,
+      "Longitude": 110.4038774
+    },
+    {
+      "Nama": "Resapi Kopi",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -722,
+      "Jalan": "Glagahsari St No.84",
+      "Full Address": "Resapi Kopi Glagahsari St No.84",
+      "Latitude": -7.8075729,
+      "Longitude": 110.3877185
+    },
+    {
+      "Nama": "TEMANLAMA JOGJA",
+      "Jenis": "Coffee shop",
+      "Rating": "4,4",
+      "Harga": -174,
+      "Jalan": "Jl. Suroto No.5A",
+      "Full Address": "TEMANLAMA JOGJA Jl. Suroto No.5A",
+      "Latitude": -7.7846511,
+      "Longitude": 110.3744141
+    },
+    {
+      "Nama": "Sellie Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": -907,
+      "Jalan": "NG 3, Jl. Gerilya No.822, RT.039/RW.010",
+      "Full Address": "Sellie Coffee NG 3, Jl. Gerilya No.822, RT.039/RW.010",
+      "Latitude": -7.8202984,
+      "Longitude": 110.3719696
+    },
+    {
+      "Nama": "Cold 'N Brew Parangtritis",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": "(1,2K)",
+      "Jalan": "Daerah Istimewa, Jl. Parangtritis No.139",
+      "Full Address": "Cold 'N Brew Parangtritis Daerah Istimewa, Jl. Parangtritis No.139",
+      "Latitude": -7.8232775,
+      "Longitude": 110.3678697
+    },
+    {
+      "Nama": "Jawir Creative Communal Space",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": -394,
+      "Jalan": "Jl. Suryodiningratan No.26",
+      "Full Address": "Jawir Creative Communal Space Jl. Suryodiningratan No.26",
+      "Latitude": -7.817775,
+      "Longitude": 110.359948
+    },
+    {
+      "Nama": "Fortunate Coffee Jogja",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -679,
+      "Jalan": "Jl. Jogonegaran No.49E",
+      "Full Address": "Fortunate Coffee Jogja Jl. Jogonegaran No.49E",
+      "Latitude": -7.794106,
+      "Longitude": 110.3611629
+    },
+    {
+      "Nama": "Anak Panah Kopi Bizz HOS",
+      "Jenis": "Coffee shop",
+      "Rating": "4,8",
+      "Harga": -466,
+      "Jalan": "Jl. HOS Cokroaminoto No.185",
+      "Full Address": "Anak Panah Kopi Bizz HOS Jl. HOS Cokroaminoto No.185",
+      "Latitude": -7.7872278,
+      "Longitude": 110.3529203
+    },
+    {
+      "Nama": "Le Travail Coffee",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": -586,
+      "Jalan": "Jl. Laksda Adisucipto No.19",
+      "Full Address": "Le Travail Coffee Jl. Laksda Adisucipto No.19",
+      "Latitude": -7.78306,
+      "Longitude": 110.388822
+    },
+    {
+      "Nama": "Isvara Kitchen & Coffee",
+      "Jenis": "Cafe",
+      "Rating": "4,4",
+      "Harga": "(1K)",
+      "Jalan": "Jl. Sultan Agung No.60",
+      "Full Address": "Isvara Kitchen & Coffee Jl. Sultan Agung No.60",
+      "Latitude": -7.8019909,
+      "Longitude": 110.3799287
+    },
+    {
+      "Nama": "CW Coffee Cikditiro",
+      "Jenis": "Restaurant",
+      "Rating": "4,2",
+      "Harga": -212,
+      "Jalan": "Jl. Cik Di Tiro No.37",
+      "Full Address": "CW Coffee Cikditiro Jl. Cik Di Tiro No.37",
+      "Latitude": -7.7782263,
+      "Longitude": 110.3758996
+    },
+    {
+      "Nama": "Pier Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,8",
+      "Harga": -487,
+      "Jalan": "Jl. Bumijo Tengah No.11, RW.001",
+      "Full Address": "Pier Coffee Jl. Bumijo Tengah No.11, RW.001",
+      "Latitude": -7.7871228,
+      "Longitude": 110.3615186
+    },
+    {
+      "Nama": "Cold 'N Brew Demangan",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": "(1,2K)",
+      "Jalan": "Daerah Istimewa Yogyakarta, Special Region of Yogyakarta",
+      "Full Address": "Cold 'N Brew Demangan Daerah Istimewa Yogyakarta, Special Region of Yogyakarta",
+      "Latitude": -7.777942,
+      "Longitude": 110.3930296
+    },
+    {
+      "Nama": "Khwa Coffee Yogyakarta",
+      "Jenis": "Coffee shop",
+      "Rating": "4,9",
+      "Harga": -81,
+      "Jalan": "Jl. Sagan Utara No.12",
+      "Full Address": "Khwa Coffee Yogyakarta Jl. Sagan Utara No.12",
+      "Latitude": -7.7793587,
+      "Longitude": 110.3783122
+    },
+    {
+      "Nama": "Omar Coffee N Wings - Jogja UKDW",
+      "Jenis": "Restaurant",
+      "Rating": "4,6",
+      "Harga": -435,
+      "Jalan": "Jl. Dr. Wahidin Sudirohusodo No.28",
+      "Full Address": "Omar Coffee N Wings - Jogja UKDW Jl. Dr. Wahidin Sudirohusodo No.28",
+      "Latitude": -7.7864343,
+      "Longitude": 110.3788594
+    },
+    {
+      "Nama": "Menoewa Kopi Malioboro",
+      "Jenis": "Coffee shop",
+      "Rating": "4,3",
+      "Harga": -763,
+      "Jalan": "Jl. Abu Bakar Ali",
+      "Full Address": "Menoewa Kopi Malioboro Jl. Abu Bakar Ali",
+      "Latitude": -7.7898163,
+      "Longitude": 110.3706234
+    },
+    {
+      "Nama": "Gandhok Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": "(1K)",
+      "Jalan": "Jl. Nogosari Lor No.10",
+      "Full Address": "Gandhok Coffee Jl. Nogosari Lor No.10",
+      "Latitude": -7.8095996,
+      "Longitude": 110.3570971
+    },
+    {
+      "Nama": "Pendopo Lawas",
+      "Jenis": "Cafe",
+      "Rating": "4,4",
+      "Harga": "(12K)",
+      "Jalan": "Alun-Alun Utara St",
+      "Full Address": "Pendopo Lawas Alun-Alun Utara St",
+      "Latitude": -7.8043467,
+      "Longitude": 110.3656442
+    },
+    {
+      "Nama": "BRICafe X Couvee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": "(1,6K)",
+      "Jalan": "Jl. Sagan Tim. No.123",
+      "Full Address": "BRICafe X Couvee Jl. Sagan Tim. No.123",
+      "Latitude": -7.780584,
+      "Longitude": 110.3786765
+    },
+    {
+      "Nama": "Santai Clubhouse",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -103,
+      "Jalan": "Jl. R.W. Monginsidi No.19",
+      "Full Address": "Santai Clubhouse Jl. R.W. Monginsidi No.19",
+      "Latitude": -7.778169,
+      "Longitude": 110.3648046
+    },
+    {
+      "Nama": "Art",
+      "Jenis": "Cafe",
+      "Rating": "4,8",
+      "Harga": -19,
+      "Jalan": "Jl. Mondorakan No.15",
+      "Full Address": "Art Jl. Mondorakan No.15",
+      "Latitude": -7.8272809,
+      "Longitude": 110.3952018
+    },
+    {
+      "Nama": "COLORTONES Koffie & Studio",
+      "Jenis": "Coffee shop",
+      "Rating": "4,9",
+      "Harga": -164,
+      "Jalan": "Jl. Bakung No.21",
+      "Full Address": "COLORTONES Koffie & Studio Jl. Bakung No.21",
+      "Latitude": -7.7925913,
+      "Longitude": 110.3816497
+    },
+    {
+      "Nama": "Bento Kopi UAD",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": "(2,7K)",
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "Bento Kopi UAD Bantul Regency, Special Region of Yogyakarta",
+      "Latitude": -7.8290417,
+      "Longitude": 110.3822034
+    },
+    {
+      "Nama": "Daheim - Cafe & Coworking Space Jogja",
+      "Jenis": "Cafe",
+      "Rating": "4,8",
+      "Harga": -824,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Daheim - Cafe & Coworking Space Jogja Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7551981,
+      "Longitude": 110.3786098
+    },
+    {
+      "Nama": "Toko Kopi Oetama",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": -502,
+      "Jalan": "Jl. Mayjend Sutoyo No.38",
+      "Full Address": "Toko Kopi Oetama Jl. Mayjend Sutoyo No.38",
+      "Latitude": -7.814489,
+      "Longitude": 110.3648608
+    },
+    {
+      "Nama": "Sebelas Coffee Tamsis",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -217,
+      "Jalan": "Jl. Taman Siswa No.139",
+      "Full Address": "Sebelas Coffee Tamsis Jl. Taman Siswa No.139",
+      "Latitude": -7.8124698,
+      "Longitude": 110.3765493
+    },
+    {
+      "Nama": "Nangkring Cafe",
+      "Jenis": "Cafe",
+      "Rating": "4,9",
+      "Harga": -140,
+      "Jalan": "Jl. Rotowijayan No.12",
+      "Full Address": "Nangkring Cafe Jl. Rotowijayan No.12",
+      "Latitude": -7.8061544,
+      "Longitude": 110.3621462
+    },
+    {
+      "Nama": "R3 CAFE",
+      "Jenis": "Cafe",
+      "Rating": "4,3",
+      "Harga": -835,
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "R3 CAFE Bantul Regency, Special Region of Yogyakarta",
+      "Latitude": -7.8158147,
+      "Longitude": 110.3324828
+    },
+    {
+      "Nama": "My Kopi-O!",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": "(3,3K)",
+      "Jalan": "Jl. Candrakirana No.21",
+      "Full Address": "My Kopi-O! Jl. Candrakirana No.21",
+      "Latitude": -7.7807057,
+      "Longitude": 110.3766681
+    },
+    {
+      "Nama": "Babylon Cafe&Resto",
+      "Jenis": "Cafe",
+      "Rating": "4,4",
+      "Harga": -440,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Babylon Cafe&Resto Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7620232,
+      "Longitude": 110.3951996
+    },
+    {
+      "Nama": "Phin Kopi -------- Coffee & Eatery --------",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": -338,
+      "Jalan": "Jl. Bumijo No.2",
+      "Full Address": "Phin Kopi -------- Coffee & Eatery -------- Jl. Bumijo No.2",
+      "Latitude": -7.7868807,
+      "Longitude": 110.3627904
+    },
+    {
+      "Nama": "KITA by inessya",
+      "Jenis": "Coffee shop",
+      "Rating": "4,4",
+      "Harga": -237,
+      "Jalan": "Jl. Taman",
+      "Full Address": "KITA by inessya Jl. Taman",
+      "Latitude": -7.8102516,
+      "Longitude": 110.3600631
+    },
+    {
+      "Nama": "Ayara Space",
+      "Jenis": "Coffee shop",
+      "Rating": "4,2",
+      "Harga": -766,
+      "Jalan": "Jl. Jend. Sudirman No.40",
+      "Full Address": "Ayara Space Jl. Jend. Sudirman No.40",
+      "Latitude": -7.7835121,
+      "Longitude": 110.3722931
+    },
+    {
+      "Nama": "Oase Cafe & Resto - Tamansiswa",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": -794,
+      "Jalan": "Jl. Taman Siswa No.31",
+      "Full Address": "Oase Cafe & Resto - Tamansiswa Jl. Taman Siswa No.31",
+      "Latitude": -7.8061692,
+      "Longitude": 110.3777175
+    },
+    {
+      "Nama": "Watu Langit Jogja Coffee and Resto",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": "(3,3K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Watu Langit Jogja Coffee and Resto Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7911442,
+      "Longitude": 110.5188917
+    },
+    {
+      "Nama": "ONO\" kopi",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -199,
+      "Jalan": "Jl. Mangkuyudan No.1",
+      "Full Address": "ONO\" kopi Jl. Mangkuyudan No.1",
+      "Latitude": -7.8206541,
+      "Longitude": 110.36213
+    },
+    {
+      "Nama": "OPPIO",
+      "Jenis": "Coffee shop",
+      "Rating": "4,2",
+      "Harga": -781,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "OPPIO Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.707374,
+      "Longitude": 110.422012
+    },
+    {
+      "Nama": "KLA Co-Working Space",
+      "Jenis": "Coworking space",
+      "Rating": "5,0",
+      "Harga": -673,
+      "Jalan": "Jl. Prof. Dr. Ir. Herman Johannes Jl. Sagan No.73",
+      "Full Address": "KLA Co-Working Space Jl. Prof. Dr. Ir. Herman Johannes Jl. Sagan No.73",
+      "Latitude": -7.7773839,
+      "Longitude": 110.3797556
+    },
+    {
+      "Nama": "SENJA Coffee & Memories",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": -986,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "SENJA Coffee & Memories Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7654631,
+      "Longitude": 110.3788442
+    },
+    {
+      "Nama": "Banana Cafe",
+      "Jenis": "Cafe",
+      "Rating": "4,3",
+      "Harga": -206,
+      "Jalan": "Jl. Parangtritis No.64",
+      "Full Address": "Banana Cafe Jl. Parangtritis No.64",
+      "Latitude": -7.8193139,
+      "Longitude": 110.3679758
+    },
+    {
+      "Nama": "NOX Coffee Boutique",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": -676,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "NOX Coffee Boutique Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7579066,
+      "Longitude": 110.3816834
+    },
+    {
+      "Nama": "Peacockoffie Palagan",
+      "Jenis": "Coffee shop",
+      "Rating": "4,3",
+      "Harga": "(2K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Peacockoffie Palagan Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7433221,
+      "Longitude": 110.3740697
+    },
+    {
+      "Nama": "Made Cafe And Restaurant",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -121,
+      "Jalan": "no.64 B, Jl. Parangtritis",
+      "Full Address": "Made Cafe And Restaurant no.64 B, Jl. Parangtritis",
+      "Latitude": -7.8192204,
+      "Longitude": 110.3679881
+    },
+    {
+      "Nama": "Internet Learning Cafe - Timoho",
+      "Jenis": "Coworking space",
+      "Rating": "4,5",
+      "Harga": "(2,8K)",
+      "Jalan": "Jl. Ipda Tut Harsono",
+      "Full Address": "Internet Learning Cafe - Timoho Jl. Ipda Tut Harsono",
+      "Latitude": -7.7940727,
+      "Longitude": 110.3928166
+    },
+    {
+      "Nama": "The Civet House",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": -225,
+      "Jalan": "Jl. Ps. Kembang No.35",
+      "Full Address": "The Civet House Jl. Ps. Kembang No.35",
+      "Latitude": -7.7900113,
+      "Longitude": 110.3640733
+    },
+    {
+      "Nama": "Sepakat Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": -553,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Sepakat Coffee Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.763233,
+      "Longitude": 110.4034263
+    },
+    {
+      "Nama": "Cafe Kampung NyuSS...",
+      "Jenis": "Cafe",
+      "Rating": "4,9",
+      "Harga": -349,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Cafe Kampung NyuSS... Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7664728,
+      "Longitude": 110.3678941
+    },
+    {
+      "Nama": "Hypnotized Dining",
+      "Jenis": "Cafe",
+      "Rating": "4,8",
+      "Harga": -28,
+      "Jalan": "Jl. KH. Ahmad Dahlan No.123",
+      "Full Address": "Hypnotized Dining Jl. KH. Ahmad Dahlan No.123",
+      "Latitude": -7.8012756,
+      "Longitude": 110.3569593
+    },
+    {
+      "Nama": "PADIKU Eatery & Coffee",
+      "Jenis": "Restaurant",
+      "Rating": "4,4",
+      "Harga": -891,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "PADIKU Eatery & Coffee Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.712828,
+      "Longitude": 110.409473
+    },
+    {
+      "Nama": "Haven Coffee and Eatery",
+      "Jenis": "Cafe",
+      "Rating": "5,0",
+      "Harga": -12,
+      "Jalan": "Jl. Kemetiran Kidul No.52C",
+      "Full Address": "Haven Coffee and Eatery Jl. Kemetiran Kidul No.52C",
+      "Latitude": -7.7928491,
+      "Longitude": 110.3582963
+    },
+    {
+      "Nama": "Nilu Kopi UAD",
+      "Jenis": "Coffee shop",
+      "Rating": "4,3",
+      "Harga": "(1,4K)",
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "Nilu Kopi UAD Bantul Regency, Special Region of Yogyakarta",
+      "Latitude": -7.8311988,
+      "Longitude": 110.3850188
+    },
+    {
+      "Nama": "ANDORRA Restaurant & Bar",
+      "Jenis": "Cafe",
+      "Rating": "4,8",
+      "Harga": -109,
+      "Jalan": "PYRENEES Yogyakarta, Jl. Sosrowijayan No.1 lantai 1",
+      "Full Address": "ANDORRA Restaurant & Bar PYRENEES Yogyakarta, Jl. Sosrowijayan No.1 lantai 1",
+      "Latitude": -7.7919044,
+      "Longitude": 110.3655788
+    },
+    {
+      "Nama": "DIGILIB Cafe",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -563,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "DIGILIB Cafe Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7693006,
+      "Longitude": 110.3794563
+    },
+    {
+      "Nama": "Mohan Cafe",
+      "Jenis": "Cafe",
+      "Rating": "4,7",
+      "Harga": -238,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Mohan Cafe Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.6978125,
+      "Longitude": 110.3675625
+    },
+    {
+      "Nama": "Kedai Sugih",
+      "Jenis": "Restaurant",
+      "Rating": "4,5",
+      "Harga": -51,
+      "Jalan": "Jl. Raden Ronggo I No.14",
+      "Full Address": "Kedai Sugih Jl. Raden Ronggo I No.14",
+      "Latitude": -7.8233221,
+      "Longitude": 110.3960947
+    },
+    {
+      "Nama": "Point Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,8",
+      "Harga": -14,
+      "Jalan": "Jl. DR. Sardjito No.31",
+      "Full Address": "Point Coffee Jl. DR. Sardjito No.31",
+      "Latitude": -7.7771369,
+      "Longitude": 110.3718761
+    },
+    {
+      "Nama": "Treat Cafe",
+      "Jenis": "Cafe",
+      "Rating": "4,4",
+      "Harga": -553,
+      "Jalan": "Jl. Gajah Mada No.60",
+      "Full Address": "Treat Cafe Jl. Gajah Mada No.60",
+      "Latitude": -6.160634,
+      "Longitude": 106.8181881
+    },
+    {
+      "Nama": "Kala Jumpa",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": -146,
+      "Jalan": "Jl. Malioboro No.42",
+      "Full Address": "Kala Jumpa Jl. Malioboro No.42",
+      "Latitude": -7.7939098,
+      "Longitude": 110.3658277
+    },
+    {
+      "Nama": "The House of Raminten",
+      "Jenis": "Traditional restaurant",
+      "Rating": "4,5",
+      "Harga": "(20K)",
+      "Jalan": "Jl. Faridan M Noto No.7",
+      "Full Address": "",
+      "Latitude": "",
+      "Longitude": ""
+    },
+    {
+      "Nama": "KAFE basabasi Kragilan (UAD Terpadu)",
+      "Jenis": "Cafe",
+      "Rating": "4,4",
+      "Harga": "(1K)",
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "KAFE basabasi Kragilan (UAD Terpadu) Bantul Regency, Special Region of Yogyakarta",
+      "Latitude": -7.8319527,
+      "Longitude": 110.3808389
+    },
+    {
+      "Nama": "Point Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": -112,
+      "Jalan": "Jl. R. E. Martadinata No.116",
+      "Full Address": "Point Coffee Jl. R. E. Martadinata No.116",
+      "Latitude": -6.9106239,
+      "Longitude": 107.6259852
+    },
+    {
+      "Nama": "Kopi opak #29",
+      "Jenis": "Restaurant",
+      "Rating": "4,4",
+      "Harga": "(2,1K)",
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "",
+      "Latitude": "",
+      "Longitude": ""
+    },
+    {
+      "Nama": "Basabasi Sorowajan Cafe",
+      "Jenis": "Cafe",
+      "Rating": "4,4",
+      "Harga": "(2,8K)",
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "Basabasi Sorowajan Cafe Bantul Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7896602,
+      "Longitude": 110.3987251
+    },
+    {
+      "Nama": "Kopi Kamu - Gg. Soka Jogja",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": -49,
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "Kopi Kamu - Gg. Soka Jogja Bantul Regency, Special Region of Yogyakarta",
+      "Latitude": -7.8281078,
+      "Longitude": 110.3966297
+    },
+    {
+      "Nama": "LorRel Waroeng",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": -259,
+      "Jalan": "Bantul Regency, Special Region of Yogyakarta",
+      "Full Address": "LorRel Waroeng Bantul Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7880394,
+      "Longitude": 110.3483616
+    },
+    {
+      "Nama": "Angkringan Jaman Edan",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": -308,
+      "Jalan": "Jl. Margo Utomo No.30",
+      "Full Address": "Angkringan Jaman Edan Jl. Margo Utomo No.30",
+      "Latitude": -7.7877041,
+      "Longitude": 110.3666188
+    },
+    {
+      "Nama": "Langkid 8",
+      "Jenis": "Cafe",
+      "Rating": "4,9",
+      "Harga": -180,
+      "Jalan": "Jl. Langenastran Kidul No.8",
+      "Full Address": "Langkid 8 Jl. Langenastran Kidul No.8",
+      "Latitude": -7.812508,
+      "Longitude": 110.3646207
+    },
+    {
+      "Nama": "LOKO CAFE STASIUN TUGU",
+      "Jenis": "Cafe",
+      "Rating": "4,2",
+      "Harga": -139,
+      "Jalan": "Yogyakarta City, Special Region of Yogyakarta",
+      "Full Address": "LOKO CAFE STASIUN TUGU Yogyakarta City, Special Region of Yogyakarta",
+      "Latitude": -7.7893113,
+      "Longitude": 110.3634832
+    },
+    {
+      "Nama": "Starbucks Malioboro",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": "(3,3K)",
+      "Jalan": "Jl. Malioboro No.41",
+      "Full Address": "",
+      "Latitude": "",
+      "Longitude": ""
+    },
+    {
+      "Nama": "Tempat Ngopi Jogja",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -98,
+      "Jalan": "Jl. Babaran",
+      "Full Address": "Tempat Ngopi Jogja Jl. Babaran",
+      "Latitude": -7.8118541,
+      "Longitude": 110.388287
+    },
+    {
+      "Nama": "Point Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -87,
+      "Jalan": "Jl. Pakuningratan No.7",
+      "Full Address": "Point Coffee Jl. Pakuningratan No.7",
+      "Latitude": -7.7807103,
+      "Longitude": 110.3611123
+    },
+    {
+      "Nama": "POFFEN",
+      "Jenis": "Bakery",
+      "Rating": "4,6",
+      "Harga": -440,
+      "Jalan": "Jl. Pakuningratan No.21 Kel. Cokrodiningratan ; Kec. Jetis Special Region of",
+      "Full Address": "POFFEN Jl. Pakuningratan No.21 Kel. Cokrodiningratan ; Kec. Jetis Special Region of",
+      "Latitude": -7.7810935,
+      "Longitude": 110.3653995
+    },
+    {
+      "Nama": "Tempo Gelato Kaliurang",
+      "Jenis": "Ice Cream",
+      "Rating": "4,7",
+      "Harga": "(20K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Tempo Gelato Kaliurang Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7627172,
+      "Longitude": 110.3796997
+    },
+    {
+      "Nama": "Etnik Kafe",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": -99,
+      "Jalan": "Jl. Brigjen Katamso",
+      "Full Address": "Etnik Kafe Jl. Brigjen Katamso",
+      "Latitude": -7.8086276,
+      "Longitude": 110.3708105
+    },
+    {
+      "Nama": "Jogja Festival Resto And Fun Cafe",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": -32,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Jogja Festival Resto And Fun Cafe Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7672291,
+      "Longitude": 110.3542079
+    },
+    {
+      "Nama": "Awan Mbengi Coffee & Sisha Stall",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": "(1,4K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Awan Mbengi Coffee & Sisha Stall Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.730447,
+      "Longitude": 110.397367
+    },
+    {
+      "Nama": "Point Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": -152,
+      "Jalan": "Jl. Timoho No.90",
+      "Full Address": "Point Coffee Jl. Timoho No.90",
+      "Latitude": -7.7900734,
+      "Longitude": 110.3934617
+    },
+    {
+      "Nama": "Roepa+ Pogung Baru Coffee & Kitchen",
+      "Jenis": "Restaurant",
+      "Rating": "4,6",
+      "Harga": -285,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Roepa+ Pogung Baru Coffee & Kitchen Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7587172,
+      "Longitude": 110.377082
+    },
+    {
+      "Nama": "Klinik Kopi",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": "(2,8K)",
+      "Jalan": "Yogyakarta, Special Region of Yogyakarta",
+      "Full Address": "",
+      "Latitude": "",
+      "Longitude": ""
+    },
+    {
+      "Nama": "Jatinangor House Yogyakarta",
+      "Jenis": "Chicken shop",
+      "Rating": "4,3",
+      "Harga": "(1,4K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Jatinangor House Yogyakarta Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7574262,
+      "Longitude": 110.3773646
+    },
+    {
+      "Nama": "Teko.su coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,9",
+      "Harga": -123,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Teko.su coffee Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7664645,
+      "Longitude": 110.3971282
+    },
+    {
+      "Nama": "Sender Coffee // Bena's Personal Space",
+      "Jenis": "Coffee shop",
+      "Rating": "5,0",
+      "Harga": -1,
+      "Jalan": "Bhayangakara No. Jl. Bhayangkara No.1, Ngampilan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55261, DIY",
+      "Full Address": "Sender Coffee // Bena's Personal Space Bhayangakara No. Jl. Bhayangkara No.1, Ngampilan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55261, DIY",
+      "Latitude": -7.8010912,
+      "Longitude": 110.3619157
+    },
+    {
+      "Nama": "Lucifer",
+      "Jenis": "Cafe",
+      "Rating": "4,1",
+      "Harga": -698,
+      "Jalan": "Sosrowijayan St No.71",
+      "Full Address": "Lucifer Sosrowijayan St No.71",
+      "Latitude": -7.791617,
+      "Longitude": 110.3618454
+    },
+    {
+      "Nama": "Point Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,4",
+      "Harga": -121,
+      "Jalan": "Jl. Malioboro No.179",
+      "Full Address": "Point Coffee Jl. Malioboro No.179",
+      "Latitude": -7.7914672,
+      "Longitude": 110.3658789
+    },
+    {
+      "Nama": "Klotok Coffeshop",
+      "Jenis": "Indonesian",
+      "Rating": "4,5",
+      "Harga": "(36K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Klotok Coffeshop Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.6703429,
+      "Longitude": 110.4213061
+    },
+    {
+      "Nama": "Terraloka",
+      "Jenis": "Cafe",
+      "Rating": "4,6",
+      "Harga": -906,
+      "Jalan": "Kulon Progo Regency, Special Region of Yogyakarta",
+      "Full Address": "Terraloka Kulon Progo Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7498848,
+      "Longitude": 110.1923219
+    },
+    {
+      "Nama": "Backyard Smoke and Buns",
+      "Jenis": "Barbecue",
+      "Rating": "4,8",
+      "Harga": -529,
+      "Jalan": "Yogyakarta City, Special Region of Yogyakarta",
+      "Full Address": "Backyard Smoke and Buns Yogyakarta City, Special Region of Yogyakarta",
+      "Latitude": -7.7807369,
+      "Longitude": 110.3620984
+    },
+    {
+      "Nama": "Warung Kopi Merapi",
+      "Jenis": "Cafe",
+      "Rating": "4,4",
+      "Harga": "(7,9K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Warung Kopi Merapi Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.6025797,
+      "Longitude": 110.4458424
+    },
+    {
+      "Nama": "IVY Caffe Jogja",
+      "Jenis": "Cafe",
+      "Rating": "5,0",
+      "Harga": -2,
+      "Jalan": "Jl. Veteran No.171b",
+      "Full Address": "IVY Caffe Jogja Jl. Veteran No.171b",
+      "Latitude": -7.816624,
+      "Longitude": 110.3850724
+    },
+    {
+      "Nama": "Desia's Kitchen",
+      "Jenis": "Cafe",
+      "Rating": "4,8",
+      "Harga": -303,
+      "Jalan": "Jl. Tegal Panggung No.41",
+      "Full Address": "Desia's Kitchen Jl. Tegal Panggung No.41",
+      "Latitude": -7.7941655,
+      "Longitude": 110.3708018
+    },
+    {
+      "Nama": "Excelso Malioboro Mall",
+      "Jenis": "Coffee shop",
+      "Rating": "4,3",
+      "Harga": -121,
+      "Jalan": "Jl. Malioboro No.52-58",
+      "Full Address": "Excelso Malioboro Mall Jl. Malioboro No.52-58",
+      "Latitude": -7.7935096,
+      "Longitude": 110.3659153
+    },
+    {
+      "Nama": "KOPI JOSS MBAK SISKA Slasar Malioboro",
+      "Jenis": "Javanese restaurant",
+      "Rating": "4,5",
+      "Harga": -84,
+      "Jalan": "Jl. Malioboro",
+      "Full Address": "KOPI JOSS MBAK SISKA Slasar Malioboro Jl. Malioboro",
+      "Latitude": -7.789792,
+      "Longitude": 110.3649046
+    },
+    {
+      "Nama": "Kopi Kenangan - Ramai Malioboro",
+      "Jenis": "Coffee shop",
+      "Rating": "4,6",
+      "Harga": -726,
+      "Jalan": "Ramai Malioboro, Jl. Jend. Ahmad Yani No.73 Lt.G",
+      "Full Address": "Kopi Kenangan - Ramai Malioboro Ramai Malioboro, Jl. Jend. Ahmad Yani No.73 Lt.G",
+      "Latitude": -7.7972032,
+      "Longitude": 110.3651212
+    },
+    {
+      "Nama": "Rumah Rasa (Kaliurang)",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -279,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Rumah Rasa (Kaliurang) Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.5921269,
+      "Longitude": 110.4279788
+    },
+    {
+      "Nama": "J.Co Donuts Malioboro Mall",
+      "Jenis": "Donuts",
+      "Rating": "4,2",
+      "Harga": -603,
+      "Jalan": "Mall Malioboro, Lantai UG, Jl. Malioboro No.52-58",
+      "Full Address": "J.Co Donuts Malioboro Mall Mall Malioboro, Lantai UG, Jl. Malioboro No.52-58",
+      "Latitude": -7.7933882,
+      "Longitude": 110.3659406
+    },
+    {
+      "Nama": "Bento Kopi Jakal",
+      "Jenis": "Coffee shop",
+      "Rating": "4,3",
+      "Harga": "(2,2K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Bento Kopi Jakal Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7021386,
+      "Longitude": 110.4145158
+    },
+    {
+      "Nama": "Angkringan Kopi Jos Lik Man - Selasar Malioboro",
+      "Jenis": "Cafe",
+      "Rating": "4,4",
+      "Harga": -692,
+      "Jalan": "Jl. Ps. Kembang No.3",
+      "Full Address": "Angkringan Kopi Jos Lik Man - Selasar Malioboro Jl. Ps. Kembang No.3",
+      "Latitude": -7.7897264,
+      "Longitude": 110.3649859
+    },
+    {
+      "Nama": "ASJAVA Leather & Cafe Prawirotaman",
+      "Jenis": "Craft store",
+      "Rating": "4,7",
+      "Harga": -22,
+      "Jalan": "Jl. Prawirotaman No.29",
+      "Full Address": "ASJAVA Leather & Cafe Prawirotaman Jl. Prawirotaman No.29",
+      "Latitude": -7.8191754,
+      "Longitude": 110.3714696
+    },
+    {
+      "Nama": "Jos Coffee Angkringan Tugu",
+      "Jenis": "Coffee shop",
+      "Rating": "4,3",
+      "Harga": -217,
+      "Jalan": "Jl. P. Mangkubumi No.62",
+      "Full Address": "Jos Coffee Angkringan Tugu Jl. P. Mangkubumi No.62",
+      "Latitude": -7.783263,
+      "Longitude": 110.3671516
+    },
+    {
+      "Nama": "Warung mbak apit / cafe gubrak",
+      "Jenis": "Nasi restaurant",
+      "Rating": "5,0",
+      "Harga": -1,
+      "Jalan": "Gedongan KG 3 Rt 05/02",
+      "Full Address": "Warung mbak apit / cafe gubrak Gedongan KG 3 Rt 05/02",
+      "Latitude": -7.8209041,
+      "Longitude": 110.4024064
+    },
+    {
+      "Nama": "Filosofi Kopi JNM Bloc",
+      "Jenis": "Coffee shop",
+      "Rating": "3,3",
+      "Harga": -29,
+      "Jalan": "59X3+Q54, Jl. KH. Ahmad Dahlan",
+      "Full Address": "Filosofi Kopi JNM Bloc 59X3+Q54, Jl. KH. Ahmad Dahlan",
+      "Latitude": -7.8006125,
+      "Longitude": 110.3529531
+    },
+    {
+      "Nama": "Warung Jawi",
+      "Jenis": "Cafe",
+      "Rating": "4,5",
+      "Harga": -462,
+      "Jalan": "Jl. Mondorakan Gg. Kp. Pekaten No.859",
+      "Full Address": "Warung Jawi Jl. Mondorakan Gg. Kp. Pekaten No.859",
+      "Latitude": -7.8269475,
+      "Longitude": 110.3989314
+    },
+    {
+      "Nama": "Candhari Heaven",
+      "Jenis": "Restaurant",
+      "Rating": "4,7",
+      "Harga": "(2,2K)",
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Candhari Heaven Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7683188,
+      "Longitude": 110.492289
+    },
+    {
+      "Nama": "Tepi Cafe",
+      "Jenis": "Cafe",
+      "Rating": "3,2",
+      "Harga": -9,
+      "Jalan": "Jl. Sriwedani No.1",
+      "Full Address": "Tepi Cafe Jl. Sriwedani No.1",
+      "Latitude": -7.8009111,
+      "Longitude": 110.3679995
+    },
+    {
+      "Nama": "Jogja Supply",
+      "Jenis": "Cafe",
+      "Rating": "4,2",
+      "Harga": -229,
+      "Jalan": "Jl. Bantul No.38",
+      "Full Address": "Jogja Supply Jl. Bantul No.38",
+      "Latitude": -7.8156291,
+      "Longitude": 110.3550832
+    },
+    {
+      "Nama": "Atap Cafe & Resto",
+      "Jenis": "Cafe",
+      "Rating": "5,0",
+      "Harga": -1,
+      "Jalan": "Sosrowijayan St No.1/113",
+      "Full Address": "Atap Cafe & Resto Sosrowijayan St No.1/113",
+      "Latitude": -7.7919044,
+      "Longitude": 110.3655788
+    },
+    {
+      "Nama": "KHAS Malioboro Coffee Shop",
+      "Jenis": "Coffee shop",
+      "Rating": "5,0",
+      "Harga": -2,
+      "Jalan": "Jl. Gadean No.3",
+      "Full Address": "KHAS Malioboro Coffee Shop Jl. Gadean No.3",
+      "Latitude": -7.7982407,
+      "Longitude": 110.363368
+    },
+    {
+      "Nama": "LaVana Kaliurang",
+      "Jenis": "Restaurant",
+      "Rating": "4,3",
+      "Harga": -942,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "LaVana Kaliurang Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.6003166,
+      "Longitude": 110.4270328
+    },
+    {
+      "Nama": "SUROLOYO COFFEE & RESTO",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -887,
+      "Jalan": "Kulon Progo Regency, Special Region of Yogyakarta",
+      "Full Address": "SUROLOYO COFFEE & RESTO Kulon Progo Regency, Special Region of Yogyakarta",
+      "Latitude": -7.6476338,
+      "Longitude": 110.1814724
+    },
+    {
+      "Nama": "Tasneem Hotel and Convention Yogyakarta",
+      "Jenis": "Cafe",
+      "Rating": "4,3",
+      "Harga": "(2,7K)",
+      "Jalan": "Purawisata, Kawasan Mandira Baruga, Jl. Brigjen Katamso",
+      "Full Address": "",
+      "Latitude": "",
+      "Longitude": ""
+    },
+    {
+      "Nama": "Kopi Cilik",
+      "Jenis": "Coffee shop",
+      "Rating": "5,0",
+      "Harga": -5,
+      "Jalan": "St. Lempuyangan",
+      "Full Address": "Kopi Cilik St. Lempuyangan",
+      "Latitude": -7.7901969,
+      "Longitude": 110.3764197
+    },
+    {
+      "Nama": "Kelas Pagi Yogyakarta(Rumah KPY)",
+      "Jenis": "Coworking space",
+      "Rating": "4,8",
+      "Harga": -58,
+      "Jalan": "Jl. Brigjen Katamso",
+      "Full Address": "Kelas Pagi Yogyakarta(Rumah KPY) Jl. Brigjen Katamso",
+      "Latitude": -7.8072568,
+      "Longitude": 110.3696837
+    },
+    {
+      "Nama": "Kafe Pedjuang! - The Hideout",
+      "Jenis": "Cafe",
+      "Rating": "4,9",
+      "Harga": -265,
+      "Jalan": "Jl. DI Panjaitan No.34",
+      "Full Address": "Kafe Pedjuang! - The Hideout Jl. DI Panjaitan No.34",
+      "Latitude": -7.8164753,
+      "Longitude": 110.3622579
+    },
+    {
+      "Nama": "Lagani Coffee",
+      "Jenis": "Coffee shop",
+      "Rating": "4,5",
+      "Harga": -523,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "",
+      "Latitude": "",
+      "Longitude": ""
+    },
+    {
+      "Nama": "Always Coffee Jogja",
+      "Jenis": "Cafe",
+      "Rating": "4,7",
+      "Harga": -330,
+      "Jalan": "Sleman Regency, Special Region of Yogyakarta",
+      "Full Address": "Always Coffee Jogja Sleman Regency, Special Region of Yogyakarta",
+      "Latitude": -7.7750352,
+      "Longitude": 110.4033789
+    },
+    {
+      "Nama": "KOPI RUMAH KITA",
+      "Jenis": "Espresso bar",
+      "Rating": "5,0",
+      "Harga": -14,
+      "Jalan": "1288, NG I, Jl. Kp. Ngadiwinatan",
+      "Full Address": "KOPI RUMAH KITA 1288, NG I, Jl. Kp. Ngadiwinatan",
+      "Latitude": -7.7998841,
+      "Longitude": 110.360526
+    },
+    {
+      "Nama": "OtentiKopi Plus Jogja",
+      "Jenis": "Coffee shop",
+      "Rating": "4,7",
+      "Harga": -294,
+      "Jalan": "Jl. Lowanu",
+      "Full Address": "OtentiKopi Plus Jogja Jl. Lowanu",
+      "Latitude": -7.8214787,
+      "Longitude": 110.377214
+    },
+    {
+      "Nama": "Semesta Cafe Kotabaru",
+      "Jenis": "Coffee shop",
+      "Rating": "4,0",
+      "Harga": "(1,6K)",
+      "Jalan": "Jl. Abu Bakar Ali No.2",
+      "Full Address": "Semesta Cafe Kotabaru Jl. Abu Bakar Ali No.2",
+      "Latitude": -7.7896103,
+      "Longitude": 110.3699133
+    }
+  ]
